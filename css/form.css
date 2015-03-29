@@ -1,0 +1,133 @@
+@charset "utf-8";
+/* CSS Document */
+
+/**
+	Lenze Site Template
+ 	Copyright (c) 2013, Pophonic 
+
+	Author: Pophonic
+	Profile: themeforest.net/user/pophonic
+	
+**/
+
+
+/* ===== Leave a Comment ===== */
+
+.comment-fieldbox {
+	margin-top: 25px;
+}
+
+.comment-fieldbox input {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	width: 370px;
+	height: 35px;
+	padding: 0px 20px;
+	color: #9e9e9e;
+	background-color: #ffffff;
+	border: #eeeeee solid 1px;
+	
+	/* div padding fix */
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	box-sizing: border-box;         /* Opera/IE 8+ */
+}
+
+.comment-fieldbox .input-email,
+.comment-fieldbox .input-subject {
+	margin-top: 20px;
+}
+
+.comment-fieldbox textarea {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	width: 100%;
+	height: 210px;
+	margin-top: 20px;
+	padding: 10px 20px;
+	color: #9e9e9e;
+	background-color: #ffffff;
+	border: #eeeeee solid 1px;
+	
+	/* div padding fix */
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	box-sizing: border-box;         /* Opera/IE 8+ */
+}
+
+.comment-active {
+	margin-top: 10px;
+	overflow: hidden;
+}
+
+.comment-active span {
+	float: left;
+	line-height: 20px;
+}
+
+.comment-active .submit-button {
+	width: auto;
+	font-family: 'Oswald', sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	color: #ffffff;
+	text-align: center;
+	float: right;
+	background-color: #36bfc4;
+	margin-top: 5px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	
+	/* div padding fix */
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	box-sizing: border-box;         /* Opera/IE 8+ */
+	
+	-webkit-transition: background-color 0.2s ease-in-out;
+	-moz-transition: background-color 0.2s ease-in-out;
+	-ms-transition: background-color 0.2s ease-in-out;
+	-o-transition: background-color 0.2s ease-in-out;
+	transition: background-color 0.2s ease-in-out;
+}
+
+.comment-active .submit-button:hover {
+	background-color: #3a3a3a;
+}
+
+/* ===== End ===== */
+
+
+/* ===== Leave a comment placeholder color ===== */
+
+.comment-fieldbox .placeholder { /* Internet Explorer */
+	color: #9e9e9e;
+}
+
+.comment-fieldbox input::-webkit-input-placeholder,
+.comment-fieldbox textarea::-webkit-input-placeholder { /* WebKit browsers */
+    color: #9e9e9e;
+}
+
+.comment-fieldbox input:-moz-placeholder,
+.comment-fieldbox textarea:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color: #4e4e4e;
+}
+.comment-fieldbox input::-moz-placeholder,
+.comment-fieldbox textarea::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color: #4e4e4e;
+}
+
+/* ===== End ===== */
+
+
+
+/* ===== Design for a width of 480px to 539px ===== */
+@media only screen and (max-width:539px)
+{
+	.comment-fieldbox input {
+		width: 100%;
+	}
+}

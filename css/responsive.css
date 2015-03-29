@@ -1,0 +1,1004 @@
+@charset "utf-8";
+/* CSS Document */
+
+/**
+	Lenze Site Template
+ 	Copyright (c) 2013, Pophonic 
+
+	Author: Pophonic
+	Profile: themeforest.net/user/pophonic
+	
+**/
+
+
+
+/* ===== Design for a width of 768px to 984px ===== */
+@media only screen and (max-width:984px)
+{
+	
+	.wrapper.header {
+		width: 100%;
+	}
+	
+	.wrapper {
+		width: 728px;
+	}
+	
+	.wrapper.boxstyle {
+		margin-top: 115px;
+	}
+	
+	.page-header h1 {
+		float: none;
+		margin-right: 0px;
+		margin-bottom: 15px;
+	}
+	
+	.feature-image img {
+		width: 100%;
+		height: auto;
+	}
+	
+	
+	/* ===== Service ===== */
+	.servicebox {
+		width: 514px;
+		left: 50%;
+    	margin-left: -257px;
+	}
+	
+	.servicebox ul li{
+		margin-top: 80px;
+		margin-left: 20px;
+	}
+	
+	.servicebox ul li:nth-child(-n+2){
+		margin-top: 0px;
+	}
+	
+	.service-textarea {
+		padding-top: 73%;
+	}
+	
+	
+	/* ===== Category Filter ===== */
+	.category-filter h2 {
+		float: none;
+		margin-top: 0px;
+		margin-bottom: 20px;
+	}
+
+	
+	/* ===== Highlight Container ===== */
+	.highlight-container {
+		display: block;
+	}
+	
+	.highlight-container img {
+		width: 100%;
+		height: auto;
+	}
+	
+	.highlight-image {
+		display: block;
+		width: 100%;
+	}
+	
+	.highlight-details {
+		display: block;
+		width: 100%;
+		text-align: left;
+	}
+	
+	.highlight-details p {
+		margin-bottom: 45px;
+	}
+	
+	.highlight-moreinfo {
+		position: absolute;
+		right: 0;
+		bottom: 0;
+		margin-top: 0px;
+		margin-right: 35px;
+		margin-bottom: 35px;
+		padding-left: 35px;
+		background: url(../images/plus-link-highlight.png) no-repeat left;*/
+	}
+	
+	
+	/* ===== Our Team ===== */
+	.our-team ul {
+		margin-left: -20px;
+	}
+	
+	.our-team ul li {
+		width: 206px;
+		margin-left: 20px;
+	}
+	
+	.our-team ul li img {
+		width: 100%;
+		height: auto;
+	}
+	
+	.team-more {
+		margin-top: 7px;
+	}
+	
+	.team-mask:hover > .team-details {
+		margin-top: 40%;
+	}
+	
+	
+	/* ===== Portfolio and Gallery ===== */
+	.header-image .wrapper {
+		margin-top: 40px;
+	}
+	
+	.portfolio-content {
+		display: block;
+	}
+	
+	.portfolio-content figure {
+		width: 100%;
+		display: block;
+	}
+	
+	.portfolio-details {
+		width: 100%;
+		display: block;
+		padding-left: 0px;
+	}
+	
+	.portfolio-details h1 {
+		margin-top: 30px;
+	}
+	
+	.related-work ul {
+		margin-top: 17px;
+		margin-left: -14px;
+	}
+	
+	.related-work ul li {
+		width: 154px;
+		margin-top: 14px;
+		margin-left: 14px;
+	}
+	
+	.related-work ul li img {
+		width: 100%;
+		height: auto;
+	}
+	
+	.related-work ul li .thumbnail-title {
+		font-size: 12px;
+		font-weight: 400;
+		line-height: 16px;
+		padding: 45px 20px 0px 20px;
+		margin-top: 25%;
+	}
+	
+	.related-work ul li:hover .thumbnail-title {
+		margin-top: 20%;
+	}
+	
+	
+	/* ===== Clients ===== */
+	.client-logo ul li {
+		width: 25%;
+	}
+	
+	.client-logo ul li:nth-child(-n+3) {
+		box-shadow: 
+			21px  0px 0 -20px #bbbbbb,
+			0px  0px 0 0px #bbbbbb;
+	}
+	
+	.client-logo ul li:nth-child(4) {
+		box-shadow: none;
+	}
+	
+	.client-logo ul li:nth-child(5),
+	.client-logo ul li:nth-child(10),
+	.client-logo ul li:nth-child(15) {
+		box-shadow: 
+			0px -21px 0 -20px #bbbbbb,
+			21px  0px 0 -20px #bbbbbb,
+			0px  0px 0 0px #bbbbbb;
+	}
+	
+	.client-logo ul li:nth-child(8) {
+		box-shadow: 
+			0px -21px 0 -20px #bbbbbb,
+			0px  0px 0 0px #bbbbbb;
+	}
+	
+	.client-logo ul li:nth-child(12) {
+		box-shadow: 
+			0px -21px 0 -20px #bbbbbb,
+        	0px 21px 0 -20px #bbbbbb,
+         	0px  0px 0 -20px #bbbbbb;
+	}
+	
+	.client-logo ul li img {
+		width: 100%;
+		height: auto;
+	}
+	
+	
+	/* ===== Blog ===== */
+	.blog-lists,
+	.blog-details {
+		width: 433px;
+	}
+	
+	.blog-post img {
+		width: 100%;
+		height: auto;
+	}
+	
+	.related-post ul {
+		margin-left: -11px;
+	}
+	
+	.related-post ul li {
+		width: 100px;
+		margin-left: 11px;
+	}
+	
+	.related-post ul li img {
+		width: 100%;
+		height: auto;
+	}
+	
+	
+	/* ===== Contact ===== */
+	.contact-area {
+		display: block;
+	}
+	
+	.send-message {
+		display: block;
+		width: 100%;
+		padding-right: 0px;
+	}
+	
+	.contact-info {
+		display: block;
+		width: 100%;
+		border-top: #ffffff solid 1px;
+		border-left: none;
+		padding-top: 35px;
+		padding-left: 0px;
+		margin-top: 35px;
+	}
+
+	
+	/* ===== Sidebar ===== */
+	.page-sidebar {
+		width: 225px;
+		padding-left: 25px;
+	}
+	
+	.sidebar-gallery ul {
+		margin-left: -4px;
+	}
+	
+	.sidebar-gallery ul li {
+		width: 64px;
+		margin-top: 4px;
+		margin-left: 4px;
+	}
+	
+	.sidebar-gallery ul li img {
+		width: 100%;
+		height: auto;
+	}
+	
+	
+	/* ===== Footer ===== */
+	.footer-aboutus {
+		float: none;
+		width: 100%;
+		margin-right: 0px;
+	}
+	
+	.footer-gallery {
+		width: 346px;
+		margin-top: 30px;
+		margin-right: 36px;
+	}
+	
+	.footer-gallery ul li {
+		width: 82px;
+	}
+	
+	.footer-gallery ul li img {
+		width: 100%;
+		height: auto;
+	}
+	
+	.footer-contact {
+		width: 346px;
+		margin-top: 30px;
+	}
+}
+
+
+
+
+/* ===== Design for a width of 720px to 767px ===== */
+@media only screen and (max-width:767px)
+{
+	.wrapper {
+		width: 680px;
+	}
+	
+	.quote-pagesidebar {
+		width: 70%;
+	}
+	
+	
+	/* ===== Service ===== */	
+	.service-textarea {
+		padding-top: 78%;
+	}
+	
+	
+	/* ===== Our Team ===== */
+	.our-team ul {
+		margin-left: -17px;
+	}
+	
+	.our-team ul li {
+		width: 192px;
+		margin-left: 17px;
+	}
+	
+	
+	/* ===== Portfolio ===== */
+	.related-work ul {
+		margin-top: 20px;
+		margin-left: -10px;
+	}
+	
+	.related-work ul li {
+		width: 145px;
+		margin-top: 10px;
+		margin-left: 10px;
+	}
+	
+	
+	/* ===== Blog ===== */
+	.blog-lists,
+	.blog-details {
+		width: 390px;
+	}
+	
+	.related-post ul {
+		margin-left: -10px;
+	}
+	
+	.related-post ul li {
+		width: 90px;
+		margin-left: 10px;
+	}
+	
+	
+	/* ===== Sidebar ===== */
+	.page-sidebar {
+		width: 220px;
+	}
+	
+	.sidebar-gallery ul {
+		margin-left: -3px;
+	}
+	
+	.sidebar-gallery ul li {
+		width: 63px;
+		margin-top: 3px;
+		margin-left: 3px;
+	}
+	
+	
+	/* ===== Footer ===== */
+	.footer-gallery {
+		width: 325px;
+		margin-right: 30px;
+	}
+	
+	.footer-gallery ul {
+		margin-top: -3px;
+		margin-left: -3px;
+	}
+	
+	.footer-gallery ul li {
+		width: 79px;
+		margin-top: 3px;
+		margin-left: 3px;
+	}
+	
+	.footer-contact {
+		width: 325px;
+	}
+}
+
+
+
+
+/* ===== Design for a width of 540px to 719px ===== */
+@media only screen and (max-width:719px)
+{
+	.wrapper {
+		width: 520px;
+	}
+
+	.page-header p {
+		width: 100%;
+	}
+	
+	.team-quote {
+		width: 65%;
+	}
+	
+	
+	/* ===== Service ===== */	
+	.service-textarea {
+		padding-top: 102%;
+	}
+	
+	
+	/* ===== Our Team ===== */
+	.our-team ul {
+		margin-left: 82px;
+	}
+	
+	.our-team ul li {
+		width: 286px;
+		float: none;
+		margin-top: 25px;
+		margin-left: 0px;
+	}
+	
+	.our-team ul li:first-child {
+		margin-top: 0px;
+	}
+	
+	.team-more {
+		margin-top: 18px;
+	}
+	
+	.team-mask:hover > .team-details {
+		margin-top: 45%;
+	}
+	
+	
+	/* ===== Portfolio and Gallery ===== */
+	.header-image p {
+		width: 100%;
+	}
+	
+	.related-work ul {
+		margin-left: -9px;
+	}
+	
+	.related-work ul li {
+		width: 144px;
+		margin-top: 9px;
+		margin-left: 9px;
+	}
+	
+	
+	/* ===== Clients ===== */
+	.client-logo ul li {
+		width: 33.3%;
+	}
+	
+	.client-logo ul li:nth-child(-n+2) {
+		box-shadow: 
+			21px  0px 0 -20px #bbbbbb,
+			0px  0px 0 0px #bbbbbb;
+	}
+	
+	.client-logo ul li:nth-child(3) {
+		box-shadow: none;
+	}
+	
+	.client-logo ul li:nth-child(4),
+	.client-logo ul li:nth-child(8) {
+		box-shadow: 
+			0px -21px 0 -20px #bbbbbb,
+			21px  0px 0 -20px #bbbbbb,
+			0px  0px 0 0px #bbbbbb;
+	}
+	
+	.client-logo ul li:nth-child(6),
+	.client-logo ul li:nth-child(9),
+	.client-logo ul li:nth-child(12),
+	.client-logo ul li:nth-child(15) {
+		box-shadow: 
+			0px -21px 0 -20px #bbbbbb,
+			0px  0px 0 0px #bbbbbb;
+	}
+	
+	
+	/* ===== Blog ===== */
+	.blog-container {
+		display: block;
+	}
+	
+	.blog-lists,
+	.blog-details {
+		display: block;
+		width: 100%;
+		overflow: hidden;
+	}
+	
+	.related-post ul {
+		margin-left: -14px;
+	}
+	
+	.related-post ul li {
+		width: 102px;
+		margin-left: 14px;
+	}
+	
+	
+	/* ===== Sidebar ===== */
+	.page-sidebar {
+		display: block;
+		width: 100%;
+		padding-left: 0px;
+		margin-top: 45px;
+	}
+	
+	.sidebar-gallery ul {
+		margin-top: 26px;
+		margin-left: -5px;
+	}
+	
+	.sidebar-gallery ul li {
+		width: 86px;
+		margin-top: 5px;
+		margin-left: 5px;
+	}
+	
+	
+	/* ===== Footer ===== */
+	.footer-gallery {
+		width: 100%;
+		margin-top: 35px;
+		margin-right: 0px;
+	}
+	
+	.footer-gallery ul {
+		margin-top: -5px;
+		margin-left: -5px;
+	}
+	
+	.footer-gallery ul li {
+		width: 70px;
+		margin-top: 5px;
+		margin-left: 5px;
+	}
+	
+	.footer-contact {
+		width: 100%;
+		margin-top: 40px;
+	}
+	
+	
+	/* ===== Footer Bottom ===== */
+	.footer-bottom {
+		height: auto;
+		text-align: center;
+		padding: 10px 0px;
+		overflow: hidden;
+	}
+	
+	.copyright {
+		float: none;
+	}
+	
+	.footer-bottom nav {
+		float: none;
+	}
+	
+	.footer-bottom ul li {
+		float: none;
+		margin-left: 0px;
+		margin-right: 13px;
+	}
+}
+
+
+
+
+/* ===== Design for a width of 480px to 539px ===== */
+@media only screen and (max-width:539px)
+{
+	.wrapper {
+		width: 460px;
+	}
+	
+	
+	/* ===== Block Quote ===== */
+	.quote-pagesidebar {
+		width: 65%;
+	}
+	
+	
+	/* ===== Service ===== */
+	.servicebox {
+		width: 460px;
+		left: 50%;
+    	margin-left: -230px;
+		margin-top: -70px;
+	}
+	
+	.servicebox ul {
+		margin-left: 0px;
+	}
+	
+	.servicebox ul li {
+		width: 200px;
+		margin-top: 60px;
+	}
+	
+	
+	/* ===== Our Team ===== */
+	.team-title {
+		font-size: 24px;
+		padding: 0px 20px;
+	}
+	
+	.our-team ul {
+		margin-left: 52px;
+	}
+	
+	
+	/* ===== Portfolio ===== */
+	.related-work ul {
+		margin-left: -20px;
+	}
+	
+	.related-work ul li {
+		width: 185px;
+		margin-top: 20px;
+		margin-left: 20px;
+	}
+	
+	
+	/* ===== Clients ===== */
+	.client-logo ul li {
+		width: 50%;
+	}
+	
+	.client-logo ul li:first-child {
+		box-shadow: 
+			21px  0px 0 -20px #bbbbbb,
+			0px  0px 0 0px #bbbbbb;
+	}
+	
+	.client-logo ul li:nth-child(2) {
+		box-shadow: none;
+	}
+	
+	.client-logo ul li:nth-child(3),
+	.client-logo ul li:nth-child(9),
+	.client-logo ul li:nth-child(15) {
+		box-shadow: 
+			0px -21px 0 -20px #bbbbbb,
+			21px  0px 0 -20px #bbbbbb,
+			0px  0px 0 0px #bbbbbb;
+	}
+	
+	.client-logo ul li:nth-child(4),
+	.client-logo ul li:nth-child(6),
+	.client-logo ul li:nth-child(8),
+	.client-logo ul li:nth-child(10),
+	.client-logo ul li:nth-child(12) {
+		box-shadow: 
+			0px -21px 0 -20px #bbbbbb,
+			0px  0px 0 0px #bbbbbb;
+	}
+	
+	.client-logo ul li:nth-child(14) {
+		box-shadow: 
+			0px -21px 0 -20px #bbbbbb,
+        	0px 21px 0 -20px #bbbbbb,
+         	0px  0px 0 -20px #bbbbbb;
+	}
+	
+	
+	/* ===== Blog ===== */	
+	.related-post ul li {
+		width: 188px;
+		margin-top: 16px;
+	}
+	
+	.related-post ul li:nth-child(-n+2) {
+		margin-top: 0px;
+	}
+	
+	
+	/* ===== Sidebar ===== */
+	.sidebar-gallery ul {
+		margin-top: 25px;
+		margin-left: -6px;
+	}
+	
+	.sidebar-gallery ul li {
+		width: 126px;
+		margin-top: 6px;
+		margin-left: 6px;
+	}
+	
+	
+	/* ===== Footer ===== */	
+	.footer-gallery ul li {
+		width: 88px;
+	}
+}
+
+
+
+
+/* ===== Design for a width of 320px to 479px ===== */
+@media only screen and (max-width:479px)
+{
+	.wrapper.header {
+		min-width: 320px;
+	}
+	
+	.wrapper {
+		width: 310px;
+	}
+	
+	.wrapper.boxstyle {
+		margin-top: 100px;
+		margin-bottom: 45px;
+	}
+	
+	.page-header h1 {
+		line-height: 45px;
+	}
+	
+	
+	/* ===== Block Quote ===== */
+	.quote-pagefullwidth,
+	.quote-pagesidebar,
+	.team-quote {
+		width: 100%;
+	}
+	
+	
+	/* ===== Home Style 3 ===== */
+	.highlight-details h1 {
+		font-size: 40px;
+	}
+	
+	
+	/* ===== Service ===== */
+	.servicebox {
+		width: 238px;
+		left: 50%;
+		margin-top: -40px;
+    	margin-left: -119px;
+	}
+	
+	.servicebox ul li{
+		width: 237px;
+		float: none;
+		margin-top: 145px;
+		margin-left: 0px;
+	}
+	
+	.servicebox ul li:first-child{
+		margin-top: 0px;
+	}
+	
+	.servicebox ul li:nth-child(2){
+		margin-top: 145px;
+	}
+	
+	.service-textarea {
+		padding-top: 363%;
+	}
+	
+	.service-textarea h1 {
+		font-size: 50px;
+	}
+	
+	
+	/* ===== Our Team ===== */
+	.team-title-area {
+		width: 100%;
+	}
+	
+	.team-title {
+		padding: 0px 15px;
+	}
+	
+	.our-team ul {
+		margin-left: 0px;
+	}
+	
+	.our-team ul li {
+		width: 240px;
+	}
+	
+	.team-mask:hover > .team-details {
+		margin-top: 40%;
+	}
+	
+	
+	/* ===== Portfolio and Gallery ===== */
+	.related-work ul {
+		margin-top: 35px;
+		margin-left: 0px;
+	}
+	
+	.related-work ul li {
+		width: 100%;
+		float: none;
+		margin-left: 0px;
+	}
+	
+	.related-work ul li .thumbnail-title {
+		font-size: 14px;
+		font-weight: 600;
+		line-height: 20px;
+		padding: 50px 20px 0px 20px;
+		margin-top: 30%;
+	}
+	
+	.related-work ul li:hover .thumbnail-title {
+		margin-top: 24%;
+	}
+	
+	
+	/* ===== Clients ===== */
+	.client-logo ul li {
+		padding: 10px;
+	}
+	
+	
+	/* ===== Blog ===== */
+	.post-date {
+		display: none;
+	}
+	
+	.post-title {
+		padding-left: 0px;
+	}
+	
+	.post-title ul {
+		margin-top: 15px;
+	}
+	
+	.post-title ul li {
+		line-height: 18px;
+	}
+	
+	.related-post ul {
+		margin-left: 0px;
+	}
+
+
+	/* === Author === */
+	.author {
+		display: block;
+		padding-bottom: 35px;
+	}
+	
+	.author-image {
+		display: block;
+		width: 149px;
+		padding-right: 0px;
+		margin: auto;
+	}
+	
+	.author-image img {
+		width: 100%;
+		height: auto;
+	}
+	
+	.author-detail {
+		display: block;
+		border-left: none;
+		border-top: #36bfc4 solid 5px;
+		padding-top: 20px;
+		margin-top: 25px;
+	}
+	
+	.author-detail span {
+		margin-left: 0px;
+	}
+	
+	.author-detail p {
+		margin: 10px 0px 0px 0px;
+	}
+	
+	
+	/* ===== Related Post ===== */
+	.related-post ul li {
+		width: 100%;
+		float: none;
+		margin-top: 30px;
+		margin-left: 0px;
+	}
+	
+	.related-post ul li:first-child{
+		margin-top: 0px;
+	}
+	
+	.related-post ul li:nth-child(2){
+		margin-top: 30px;
+	}
+	
+	
+	/* ===== Comment ===== */
+	.blog-comment ul li {
+		display: block;
+	}
+	
+	.avatar {
+		display: block;
+		width: 149px;
+		margin: auto;
+	}
+	
+	.comment-details {
+		width: 100%;
+		display: block;
+		border-left: none;
+		border-top: #36bfc4 solid 5px;
+		margin-top: 20px;
+		padding: 10px 0px 0px 0px;
+	}
+	
+	.comment-details.comment-reply {
+		border-left: none;
+		border-top: #ffffff solid 5px;
+	}
+	
+	.comment-active .submit-button {
+		float: left;
+	}
+	
+	
+	/* ===== Contact Us ===== */
+	.map-container {
+		height: 240px;
+	}
+	
+	.contact-textarea figure {
+		float: none;
+		margin: 0px 0px 20px 0px;
+	}
+	
+	.contact-textarea img {
+		width: 100%;
+		height: auto;
+	}
+	
+	
+	/* ===== Sidebar ===== */
+	.sidebar-gallery ul li {
+		width: 76px;
+	}
+	
+	
+	/* ===== Footer ===== */	
+	.footer-gallery ul {
+		margin-top: -6px;
+		margin-left: -6px;
+	}
+	
+	.footer-gallery ul li {
+		width: 73px;
+		margin-top: 6px;
+		margin-left: 6px;
+	}
+}

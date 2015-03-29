@@ -1,0 +1,126 @@
+@charset "utf-8";
+/* CSS Document */
+
+/**
+	Lenze Site Template
+ 	Copyright (c) 2013, Pophonic 
+
+	Author: Pophonic
+	Profile: themeforest.net/user/pophonic
+	
+**/
+
+
+/* ===== Hexagon Service ===== */
+
+.service-container a {
+	width: 100%;
+	display: block;
+	min-width: 200px;
+	position: relative;
+}
+
+.service-container a:hover .hexa {
+	margin-top: 35px;
+	background-color: #36bfc4;
+}
+ 
+.hexa {
+	width: 100%;
+	min-width: 200px;
+	height: 0;
+	padding-bottom: 57.7%;
+	margin-top: 65px;
+	background-color: #4a4a4a;
+	/*position: absolute;*/
+	color: #ffffff;
+	font-family: 'Oswald', sans-serif;
+	font-size: 18px;
+	border-radius: 4%/20%;
+	
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	-ms-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
+}
+
+.hexa::before,
+.hexa::after {
+	content:"";
+	display: block;
+	width: inherit;
+	height: inherit;
+	padding: inherit;
+	background: inherit;
+	z-index: 0;
+	position: absolute;
+	border-radius: inherit;
+  
+	-moz-transform:rotate(60deg);  
+	-webkit-transform:rotate(60deg);  
+	-o-transform:rotate(60deg);  
+	-ms-transform:rotate(60deg);
+}
+
+.hexa::after {
+	-moz-transform:rotate(-60deg);  
+	-webkit-transform:rotate(-60deg);  
+	-o-transform:rotate(-60deg);  
+	-ms-transform:rotate(-60deg);
+}
+
+.hexcontainer {
+	position: absolute;
+	left: 0;
+	top: 0;
+	height: 100%;
+	width: 100%;
+	z-index: 10;
+}
+
+.vertical-align {
+	display: table;
+	height: 100%;
+	width: 100%;
+}
+
+.hextext {
+	display: table-cell;
+	text-align: center;
+	padding-top: 40%;
+	background: url(../images/service-icon/service1.png) no-repeat 50% 20%;
+	opacity: 0.4;
+
+	-webkit-transition: opacity 0.2s ease-in-out;
+	-moz-transition: opacity 0.2s ease-in-out;
+	-ms-transition: opacity 0.2s ease-in-out;
+	-o-transition: opacity 0.2s ease-in-out;
+	transition: opacity 0.2s ease-in-out;
+}
+
+.hextext.service2 {
+	background: url(../images/service-icon/service2.png) no-repeat 50% 20%;
+}
+
+.hextext.service3 {
+	background: url(../images/service-icon/service3.png) no-repeat 50% 20%;
+}
+
+.hextext.service4 {
+	background: url(../images/service-icon/service4.png) no-repeat 50% 20%;
+}
+
+.service-container a:hover .hextext {
+	opacity: 1;
+}
+
+
+
+/* ===== Design for a width of 768px to 984px ===== */
+@media only screen and (max-width:984px)
+{
+	.service-container a:hover .hexa {
+		margin-top: 65px;
+	}
+}

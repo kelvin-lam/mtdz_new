@@ -1,0 +1,100 @@
+@charset "utf-8";
+/* CSS Document */
+
+/**
+	Lenze Site Template
+ 	Copyright (c) 2013, Pophonic 
+
+	Author: Pophonic
+	Profile: themeforest.net/user/pophonic
+	
+**/
+
+/** Here's Lenze Site Template color scheme, you can change main elements color scheme by edit CSS below. **/
+
+/* ===== Main Menu ===== */
+
+.flexy-menu li:hover > a,
+.flexy-menu li.active a {
+	background: #c9d9ea;
+	border-bottom: #25b5b8 solid 5px;
+}
+
+.flexy-menu li.active li:hover > a {
+	background: #c9d9ea;
+}
+
+.arrow-down {
+	border-top: 6px solid #25b5b8;
+}
+
+.flexy-menu ul, 
+.flexy-menu ul li ul {
+	background-color: rgba(54, 191, 196, 0.9);
+}
+
+/* ===== End ===== */
+
+
+
+/* ===== All Elements ===== */
+
+.pagenav ul li a,
+.portfolio-tag ul li,
+.post-title h2 a:hover,
+.post-title ul li,
+.related-post h4 a:hover,
+.comment-date,
+.reply a:hover,
+.contact-details ul li,
+.recent-details h4 a:hover,
+.readmore a,
+.sidebar-category ul li a:hover {
+	color: #36bfc4;
+}
+
+.addmore button,
+.portfolio-tag button,
+.date-box,
+.next-page ul li:hover,
+.next-page .page-active,
+.sidebar-tags ul li,
+.service-container a:hover .hexa,
+.comment-active .submit-button,
+.filter:hover,
+.filter.selected {
+	background-color: #36bfc4;
+}
+
+.pagenav ul li {
+	border-right: #36bfc4 solid 1px;
+}
+
+.portfolio-tag,
+.author-detail,
+.comment-details,
+.contact-details {
+	border-left: #36bfc4 solid 5px;
+}
+
+/* ===== End ===== */
+
+
+
+/* ===== Hover Effect ===== */
+
+.thumbnail-hover,
+.mega-hover {
+	background-color: rgba(54, 191, 196, 0.85);
+}
+
+.team,
+.related-work .thumbnail-hover {
+	background: rgba(54, 191, 196, 0.85);
+}
+
+.blog-lists .thumbnail-hover {
+	background: rgba(54, 191, 196, 0.85) url(../images/lupe2.png) no-repeat center;
+}
+
+/* ===== End ===== */
