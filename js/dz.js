@@ -10,19 +10,16 @@ $(document).ready(function() {
             var dz = jQuery(xml).find("dz[section="+cat+"]");
             var name = jQuery(dz).find("name").first().text();
             window.document.title = name;
+            jQuery("div.container").attr("style","background-image:url('"+jQuery(dz).find("background").first().text()+"')");
+
             jQuery("div.container").find("div.wrapper").find("section.page-header").find("h1").html(name);
-            jQuery("div.container").find("div.wrapper").find("section.box-container").find("li.section").html(name);
+            //jQuery("div.container").find("div.wrapper").find("section.box-container").find("li.section").html(name);
             jQuery("div.container").find("div.wrapper").find("section.box-container").find("figure").find("img").attr("src",jQuery(dz).find("profile").first().text());
 
-            jQuery(".tour-detail-page").find(".intro").find(".service").html(html_decode(jQuery(dz).find("service").text()));
-            jQuery(".tour-detail-page").find(".intro").find(".advantage").html(html_decode(jQuery(dz).find("advantage").text()));
-            jQuery(".tour-detail-page").find(".intro").find(".sample").html(html_decode(jQuery(dz).find("sample").text()));
+            jQuery("div.container").find("div.wrapper").find("section.box-container").find("div.aboutus-content").find("p.service").html(jQuery(dz).find("service").first().text());
+            jQuery("div.container").find("div.wrapper").find("section.box-container").find("div.aboutus-content").find("p.advantage").html(jQuery(dz).find("advantage").first().text());
+            jQuery("div.container").find("div.wrapper").find("section.box-container").find("div.aboutus-content").find("p.sample").html(jQuery(dz).find("sample").first().text());
 
-            if(cat == "school") {
-                jQuery(dz).find("item").each(function () {
-                    jQuery(".section").find(".image-box").append(buildSchoolListCell(jQuery(this)));
-                });
-            }
         }
     });
 });
