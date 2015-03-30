@@ -6,29 +6,44 @@
             名校游学定制
         </name>
         <profile>
-            images/dz/school01.jpg
+            images/dz/school/school01.jpg
         </profile>
         <background>
-            images/dz/school_bg.jpg
+            images/dz/school/school_bg.jpg
         </background>
         <service>
-            1.提供资深1对1咨询服务 , 针对性了解客户需要&lt;/br&gt;
-            2. 为客户量身定制游学访问计划和行程&lt;/br&gt;
-            3. 独立组团并提供:专车,高端酒店及定制餐饮&lt;/br&gt;
-            4. 组织名校教授讲座,安排与在校学生的零距离接触&lt;/br&gt;
-            5. 协助申请I-20美国学生签证&lt;/br&gt;
-            6. 安排入住名校宿舍或美国家庭, 帮助快速地提高英文水平, 深入了解美国文化, 更快融入美国生活.&lt;/br&gt;
+            <pic>
+                images/dz/school/school_bg.jpg
+            </pic>
+            <desc>
+                1.提供资深1对1咨询服务 , 针对性了解客户需要&lt;/br&gt;
+                2. 为客户量身定制游学访问计划和行程&lt;/br&gt;
+                3. 独立组团并提供:专车,高端酒店及定制餐饮&lt;/br&gt;
+                4. 组织名校教授讲座,安排与在校学生的零距离接触&lt;/br&gt;
+                5. 协助申请I-20美国学生签证&lt;/br&gt;
+                6. 安排入住名校宿舍或美国家庭, 帮助快速地提高英文水平, 深入了解美国文化, 更快融入美国生活.&lt;/br&gt;
+            </desc>
         </service>
         <advantage>
-            1. 与美国排名前20的知名大学常年保持良好合作关系,(如斯坦福大学, 耶鲁大学, 哈佛大学等)&lt;/br&gt;
-            2. 拥有多年留学经验的资深顾问,参与行程定制, 推荐组织最有益的游学项目.&lt;/br&gt;
+            <pic>
+
+            </pic>
+            <desc>
+                1. 与美国排名前20的知名大学常年保持良好合作关系,(如斯坦福大学, 耶鲁大学, 哈佛大学等)&lt;/br&gt;
+                2. 拥有多年留学经验的资深顾问,参与行程定制, 推荐组织最有益的游学项目.&lt;/br&gt;
+            </desc>
         </advantage>
         <sample>
-            ***同学首次来美, 名校游学定制帮助学生分析各所大学优势, 并协助申请学校. 带领学生参观各大名校如:哈佛大学, 斯坦福大学并与在校中国留学生进行娱乐互动, 使之深入了解校园学习和生活环境,以及就业前景.&lt;/br&gt;
-            参观旧金山金门大桥, 渔人码头和自然历史博物馆,去亲身体验美国当地的人文生活&lt;/br&gt;
-            参观硅谷顶尖科技公司和出席华人科学家晚宴,深入地了解美国科技的集中营&lt;/br&gt;
-            回国后帮其完成美国大学申请流程,顺利得到录取通知,并且获取F1学生签证.&lt;/br&gt;
-            来美后,帮助学生处理必备生活所需,如:驾照,租车,租房, 申请美国银行卡等. 并带领他提前熟悉学区周围环境.&lt;/br&gt;
+            <pic>
+
+            </pic>
+            <desc>
+                ***同学首次来美, 名校游学定制帮助学生分析各所大学优势, 并协助申请学校. 带领学生参观各大名校如:哈佛大学, 斯坦福大学并与在校中国留学生进行娱乐互动, 使之深入了解校园学习和生活环境,以及就业前景.&lt;/br&gt;
+                参观旧金山金门大桥, 渔人码头和自然历史博物馆,去亲身体验美国当地的人文生活&lt;/br&gt;
+                参观硅谷顶尖科技公司和出席华人科学家晚宴,深入地了解美国科技的集中营&lt;/br&gt;
+                回国后帮其完成美国大学申请流程,顺利得到录取通知,并且获取F1学生签证.&lt;/br&gt;
+                来美后,帮助学生处理必备生活所需,如:驾照,租车,租房, 申请美国银行卡等. 并带领他提前熟悉学区周围环境.&lt;/br&gt;
+            </desc>
         </sample>
         <items>
             <item id="1">
@@ -164,27 +179,45 @@
             公商务定制
         </name>
         <profile>
-            images/dz/business01.jpg
+            images/dz/business/business01.jpg
         </profile>
+        <background>
+            images/dz/business/business_bg.jpg
+        </background>
         <service>
+            <pic>
+
+            </pic>
+            <desc>
             1. 提供资深1对1咨询服务 , 全面深入了解客户需要&lt;/br&gt;
             2. 为客户量身定制特色商务计划和行程&lt;/br&gt;
             3. 提供美国商务签证的邀请函&lt;/br&gt;
             4. 独立组团并提供:专车,高端酒店及定制餐饮&lt;/br&gt;
             5. 组织商务商谈的会场,安排双语商务助理及翻译&lt;/br&gt;
             6. 协助联系美国各大公司, 商会和展会, 协办中美交流合作等商务活动&lt;/br&gt;
+            </desc>
         </service>
         <advantage>
+            <pic>
+
+            </pic>
+            <desc>
             1. 与美国诸多商会, 公司以及会展中心常年保持良好关系,具有多次桥接商业合作的成功经验&lt;/br&gt;
             2. 资深双语商务助理,协助您在赴美期间的商务活动顺畅进行.&lt;/br&gt;
+            </desc>
         </advantage>
         <sample>
+            <pic>
+
+            </pic>
+            <desc>
             接待阿里巴巴公司商务旅游团.&lt;/br&gt;
             乘专机抵达美国旧金山, 特设豪华专车接至加州napa度假山庄.&lt;/br&gt;
             组织公务活动, 参观napa酒庄, 品尝高级美酒&lt;/br&gt;
             专车抵达赌城拉斯维加斯, 享受不夜城之旅&lt;/br&gt;
             游玩好莱坞环球影城,比佛利山庄名品店购物&lt;/br&gt;
             返程洛杉矶-杭州&lt;/br&gt;
+            </desc>
         </sample>
         <items>
             <item id="1">
@@ -249,22 +282,40 @@
             购物定制游
         </name>
         <profile>
-            images/dz/shopping01.jpg
+            images/dz/shopping/shopping01.jpg
         </profile>
+        <background>
+            images/dz/shopping/shopping_bg.jpg
+        </background>
         <service>
+            <pic>
+
+            </pic>
+            <desc>
             1. 提供资深1对1咨询服务 , 深入了解客户需求&lt;/br&gt;
             2. 为客户量身定制购物行程并协助完成预算计划&lt;/br&gt;
             3. 独立组团,提供:专车,高端酒店,定制餐饮及购物商圈推荐&lt;/br&gt;
             4. 提供资深导购人员及翻译服务&lt;/br&gt;
+            </desc>
         </service>
         <advantage>
+            <pic>
+
+            </pic>
+            <desc>
             资深的双语导购人员,协助您畅享赴美期间的购物活动.&lt;/br&gt;
+            </desc>
         </advantage>
         <sample>
+            <pic>
+
+            </pic>
+            <desc>
             周小姐, 北京直飞纽约, 专车接机并送至中央公园希尔顿酒店&lt;/br&gt;
             专车接送指定地点,第五大道名品店购物,特有导购全程陪同&lt;/br&gt;
             品尝法式大餐,夜游纽约曼哈顿城,观赏夜色美景&lt;/br&gt;
             返程纽约直飞北京&lt;/br&gt;
+            </desc>
         </sample>
         <items>
             <item id="1">
@@ -329,22 +380,40 @@
             移民/买房/投资 定制
         </name>
         <profile>
-            images/dz/investment01.jpg
+            images/dz/invest/investment01.jpg
         </profile>
+        <background>
+            images/dz/invest/invest_bg.jpg
+        </background>
         <service>
+            <pic>
+
+            </pic>
+            <desc>
             1. 提供资深1对1咨询服务 , 深入了解客户需求&lt;/br&gt;
             2. 为客户量身定制投资计划,协助预算并规划行程&lt;/br&gt;
             3. 独立成团并提供:包车, 高端酒店及定制餐饮&lt;/br&gt;
             4. 提供资深专职顾问翻译全程服务&lt;/br&gt;
             5. 推荐美国律所, 投资公司以及房产中介&lt;/br&gt;
+            </desc>
         </service>
         <advantage>
+            <pic>
+
+            </pic>
+            <desc>
             1. 与美国诸多律所, 投资公司和房产中介常年保持良好合作关系,具有多次桥接投资项目,房屋购买的成功经验&lt;/br&gt;
             2. 资深双语助理,助您赴美期间的移民/买房/投资活动得以顺畅进行.&lt;/br&gt;
+            </desc>
         </advantage>
         <sample>
+            <pic>
+
+            </pic>
+            <desc>
             近年国内投资环境不容乐观,***先生决定举家投资移民美国洛杉矶,我公司通过充分了解&lt;/br&gt;
             ***先生的投资计划和预算,资深移民律师Amy,为其推荐美国EB5投资移民区域中心项目,半年内成功获取美国临时绿卡,获准入境。&lt;/br&gt;
+            </desc>
         </sample>
         <items>
             <item id="1">
@@ -418,19 +487,37 @@
             新婚蜜月/婚礼 定制
         </name>
         <profile>
-            images/dz/marriage01.jpg
+            images/dz/wedding/marriage01.jpg
         </profile>
+        <background>
+            images/dz/wedding/wedding_bg.jpg
+        </background>
         <service>
+            <pic>
+
+            </pic>
+            <desc>
             1. 提供资深1对1咨询服务 , 深入了解客户需要&lt;/br&gt;
             2. 量身定制新婚蜜月的行程; 浪漫海外婚礼&lt;/br&gt;
             3. 协助选择高端酒店, 定制餐饮, 专业摄影, 中西式婚礼策划&lt;/br&gt;
             4. 独立成团并提供:包车及随行资深专职顾问翻译&lt;/br&gt;
+            </desc>
         </service>
         <advantage>
+            <pic>
+
+            </pic>
+            <desc>
             1. 与美国诸多好莱坞专用摄影师, 婚礼策划师, 化妆师 常年保持良好合作关系.&lt;/br&gt;
+            </desc>
         </advantage>
         <sample>
+            <pic>
+
+            </pic>
+            <desc>
             近年国内投资环境不容乐观,***先生决定举家投资移民美国洛杉矶,我公司通过充分了解***先生的投资计划和预算,资深移民律师Amy,为其推荐美国EB5投资移民区域中心项目,半年内成功获取美国临时绿卡,获准入境。&lt;/br&gt;
+            </desc>
         </sample>
         <items>
             <item id="1">
@@ -495,19 +582,37 @@
             医疗/海外求医 定制
         </name>
         <profile>
-            images/dz/medical01.jpg
+            images/dz/medical/medical01.jpg
         </profile>
+        <background>
+            images/dz/medical/medical_bg.jpg
+        </background>
         <service>
+            <pic>
+
+            </pic>
+            <desc>
             1. 提供资深1对1咨询服务 , 深入了解客户需要&lt;/br&gt;
             2. 量身定制海外求医行程,并合理分配预算&lt;/br&gt;
             3. 根据客户所需,给出高端酒店, 定制餐饮以及专科医院等合理推荐&lt;/br&gt;
             4. 独立成团并提供:包车以及专业资深医疗顾问&lt;/br&gt;
+            </desc>
         </service>
         <advantage>
+            <pic>
+
+            </pic>
+            <desc>
             1. 与美国诸多著名医院常年保持良好合作关系.&lt;/br&gt;
+            </desc>
         </advantage>
         <sample>
+            <pic>
+
+            </pic>
+            <desc>
             根据***先生的需要, 我公司为其推荐著名专科医院, 并提前让客人充分了解美国求医行程. 帮助客人准备充分的求医资料 提前预约与医生会面时间. 有效地为客人节省时间,无后顾之忧.客人抵达美国后,专车送达并入住精选的五星酒店休息, 次日前往预约医院与医生会面咨询. 咨询后决定留美进行下一步医治. 我公司为其特别提供了管家式服务, 照顾他在美治疗期间的一切生活所需.&lt;/br&gt;
+            </desc>
         </sample>
         <items>
             <item id="1">

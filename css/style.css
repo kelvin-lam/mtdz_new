@@ -1572,7 +1572,7 @@ blockquote {
 }
 
 .footer-aboutus {
-	width: 306px;
+	width: 606px;
 	float: left;
 	margin-right: 33px;
 }
@@ -1700,7 +1700,7 @@ blockquote {
 	font-size: 12px;
 	font-weight: normal;
 	color: #909090;
-	float: left;
+	float: right;
 }
 
 .copyright a {

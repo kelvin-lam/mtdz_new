@@ -10,15 +10,15 @@ $(document).ready(function() {
             var dz = jQuery(xml).find("dz[section="+cat+"]");
             var name = jQuery(dz).find("name").first().text();
             window.document.title = name;
-            jQuery("div.container").attr("style","background-image:url('"+jQuery(dz).find("background").first().text()+"')");
+            jQuery("div.container").css("background-image","url("+jQuery(dz).find("background").first().text()+")");
 
-            jQuery("div.container").find("div.wrapper").find("section.page-header").find("h1").html(name);
-            //jQuery("div.container").find("div.wrapper").find("section.box-container").find("li.section").html(name);
-            jQuery("div.container").find("div.wrapper").find("section.box-container").find("figure").find("img").attr("src",jQuery(dz).find("profile").first().text());
+            jQuery("div.container").find("div.wrapper section.box-container figure").find("h1").html(name);
+            //jQuery("div.container").find("div.wrapper section.box-container").find("li.section").html(name);
+            jQuery("div.container").find("div.wrapper section.box-container figure ").find("img").attr("src",jQuery(dz).find("profile").first().text());
 
-            jQuery("div.container").find("div.wrapper").find("section.box-container").find("div.aboutus-content").find("p.service").html(jQuery(dz).find("service").first().text());
-            jQuery("div.container").find("div.wrapper").find("section.box-container").find("div.aboutus-content").find("p.advantage").html(jQuery(dz).find("advantage").first().text());
-            jQuery("div.container").find("div.wrapper").find("section.box-container").find("div.aboutus-content").find("p.sample").html(jQuery(dz).find("sample").first().text());
+            jQuery("div.container").find("div.wrapper section.box-container div.aboutus-content p.service").html(jQuery(dz).find("service>desc").first().text());
+            jQuery("div.container").find("div.wrapper section.box-container div.aboutus-content p.advantage").html(jQuery(dz).find("advantage>desc").first().text());
+            jQuery("div.container").find("div.wrapper section.box-container div.aboutus-content p.sample").html(jQuery(dz).find("sample>desc").first().text());
 
         }
     });
