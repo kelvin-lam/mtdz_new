@@ -2,38 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59e5f50b-27b6-4e2f-9fc5-6b0a7a14e291" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/overflow.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/dz/business01.jpg" afterPath="$PROJECT_DIR$/images/dz/business/business01.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/dz/business02.jpg" afterPath="$PROJECT_DIR$/images/dz/business/business02.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/dz/investment01.jpg" afterPath="$PROJECT_DIR$/images/dz/invest/investment01.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/dz/investment02.jpg" afterPath="$PROJECT_DIR$/images/dz/invest/investment02.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/dz/investment03.jpg" afterPath="$PROJECT_DIR$/images/dz/invest/investment03.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/dz/marriage01.jpg" afterPath="$PROJECT_DIR$/images/dz/wedding/marriage01.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/dz/marriage03.jpg" afterPath="$PROJECT_DIR$/images/dz/wedding/marriage03.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/dz/marriage04.jpg" afterPath="$PROJECT_DIR$/images/dz/wedding/marriage04.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/dz/marriage06.jpg" afterPath="$PROJECT_DIR$/images/dz/wedding/marriage06.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/dz/marriage07.jpg" afterPath="$PROJECT_DIR$/images/dz/wedding/marriage07.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/dz/marriage09.jpg" afterPath="$PROJECT_DIR$/images/dz/wedding/marriage09.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/dz/medical01.jpg" afterPath="$PROJECT_DIR$/images/dz/medical/medical01.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/dz/medical02.jpg" afterPath="$PROJECT_DIR$/images/dz/medical/medical02.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/dz/medical03.jpg" afterPath="$PROJECT_DIR$/images/dz/medical/medical03.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/dz/medical04.jpg" afterPath="$PROJECT_DIR$/images/dz/medical/medical04.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/dz/medical05.jpg" afterPath="$PROJECT_DIR$/images/dz/medical/medical05.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/dz/school01.jpg" afterPath="$PROJECT_DIR$/images/dz/school/school01.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/dz/school02.jpg" afterPath="$PROJECT_DIR$/images/dz/school/school02.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/dz/school03.jpg" afterPath="$PROJECT_DIR$/images/dz/school/school03.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/dz/school04.jpg" afterPath="$PROJECT_DIR$/images/dz/school/school04.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/dz/school05.jpg" afterPath="$PROJECT_DIR$/images/dz/school/school05.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/dz/school06.jpg" afterPath="$PROJECT_DIR$/images/dz/school/school06.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/dz/school_bg.jpg" afterPath="$PROJECT_DIR$/images/dz/school/school_bg.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/dz/shopping01.jpg" afterPath="$PROJECT_DIR$/images/dz/shopping/shopping01.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/dz/shopping02.jpg" afterPath="$PROJECT_DIR$/images/dz/shopping/shopping02.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/dz/shopping03.jpg" afterPath="$PROJECT_DIR$/images/dz/shopping/shopping03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/footer_logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/dz/business/business02.jpg" afterPath="$PROJECT_DIR$/images/dz/business/business_bg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/dz/invest/investment02.jpg" afterPath="$PROJECT_DIR$/images/dz/invest/investment_bg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/dz/medical/medical02.jpg" afterPath="$PROJECT_DIR$/images/dz/medical/medical_bg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/dz/shopping/shopping02.jpg" afterPath="$PROJECT_DIR$/images/dz/shopping/shopping_bg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/dz/wedding/marriage03.jpg" afterPath="$PROJECT_DIR$/images/dz/wedding/marriage_bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/category3/main/08.jpg" afterPath="$PROJECT_DIR$/media/category3/main/08.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/category3/thumb/08.jpg" afterPath="$PROJECT_DIR$/media/category3/thumb/08.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dz.html" afterPath="$PROJECT_DIR$/dz.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/dz.js" afterPath="$PROJECT_DIR$/js/dz.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/dz.xml" afterPath="$PROJECT_DIR$/js/dz.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/flexy-menu.css" afterPath="$PROJECT_DIR$/css/flexy-menu.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="mtdz_new.iws" />
@@ -81,11 +59,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dz.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="dz.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dz.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.071429">
-              <caret line="97" column="41" selection-start-line="97" selection-start-column="41" selection-end-line="97" selection-end-column="41" />
+            <state vertical-scroll-proportion="0.20652173">
+              <caret line="152" column="53" selection-start-line="152" selection-start-column="53" selection-end-line="152" selection-end-column="53" />
               <folding>
                 <element signature="n#style#0;n#h1#0;n#figure#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#input#0;n#p#8;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -122,11 +100,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dz.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="dz.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/dz.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.90172416">
-              <caret line="615" column="17" selection-start-line="615" selection-start-column="17" selection-end-line="671" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="489" column="44" selection-start-line="489" selection-start-column="44" selection-end-line="489" selection-end-column="44" />
               <folding>
                 <element signature="n#items#0;n#dz#0;n#dzs#0;n#!!top" expanded="false" />
                 <element signature="n#items#0;n#dz#1;n#dzs#0;n#!!top" expanded="false" />
@@ -160,9 +138,9 @@
         <option value="$PROJECT_DIR$/css/responsive.css" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/css/flexy-menu.css" />
-        <option value="$PROJECT_DIR$/dz.html" />
         <option value="$PROJECT_DIR$/js/dz.js" />
         <option value="$PROJECT_DIR$/js/dz.xml" />
+        <option value="$PROJECT_DIR$/dz.html" />
       </list>
     </option>
   </component>
@@ -246,46 +224,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mtdz_new" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mtdz_new" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dz" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mtdz_new" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mtdz_new" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dz" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="business" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -588,16 +526,16 @@
       <option name="number" value="Default" />
       <updated>1427662901103</updated>
       <workItem from="1427662902643" duration="9335000" />
-      <workItem from="1427751237062" duration="2374000" />
+      <workItem from="1427751237062" duration="3025000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11709000" />
+    <option name="totallyTimeSpent" value="12360000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1915" height="1006" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -616,7 +554,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23245849" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23245849" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -872,28 +810,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dz.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.071429">
-          <caret line="97" column="41" selection-start-line="97" selection-start-column="41" selection-end-line="97" selection-end-column="41" />
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#figure#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#p#8;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#section#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/dz.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.90172416">
-          <caret line="615" column="17" selection-start-line="615" selection-start-column="17" selection-end-line="671" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="489" column="44" selection-start-line="489" selection-start-column="44" selection-end-line="489" selection-end-column="44" />
           <folding>
             <element signature="n#items#0;n#dz#0;n#dzs#0;n#!!top" expanded="false" />
             <element signature="n#items#0;n#dz#1;n#dzs#0;n#!!top" expanded="false" />
             <element signature="n#items#0;n#dz#2;n#dzs#0;n#!!top" expanded="false" />
             <element signature="n#items#0;n#dz#3;n#dzs#0;n#!!top" expanded="false" />
             <element signature="n#items#0;n#dz#5;n#dzs#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/footer_logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dz.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20652173">
+          <caret line="152" column="53" selection-start-line="152" selection-start-column="53" selection-end-line="152" selection-end-column="53" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#figure#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#p#8;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#section#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
