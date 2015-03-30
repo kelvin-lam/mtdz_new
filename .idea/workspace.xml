@@ -2,9 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59e5f50b-27b6-4e2f-9fc5-6b0a7a14e291" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/logo.png" afterPath="$PROJECT_DIR$/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dz/backup0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dz/business01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dz/business02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dz/investment01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dz/investment02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dz/investment03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dz/job01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dz/job02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dz/job03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dz/marriage01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dz/marriage03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dz/marriage04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dz/marriage06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dz/marriage07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dz/marriage09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dz/medical01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dz/medical02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dz/medical03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dz/medical04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dz/medical05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dz/school01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dz/school02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dz/school03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dz/school04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dz/school05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dz/school06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dz/shopping01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dz/shopping02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dz/shopping03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dz/文字.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dz.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dz.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mtdz_new.iml" afterPath="$PROJECT_DIR$/mtdz_new.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="mtdz_new.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,11 +61,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="dz.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dz.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6905041">
-              <caret line="72" column="20" selection-start-line="72" selection-start-column="20" selection-end-line="72" selection-end-column="20" />
+            <state vertical-scroll-proportion="-19.678572">
+              <caret line="109" column="24" selection-start-line="109" selection-start-column="21" selection-end-line="109" selection-end-column="24" />
+              <folding>
+                <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dz.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/dz.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+              <folding>
+                <marker date="1427699034000" expanded="true" signature="2045:2064" placeholder="..." />
+                <marker date="1427699034000" expanded="true" signature="2376:2405" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dz.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/dz.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.17253122">
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -56,6 +115,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/dz.html" />
+        <option value="$PROJECT_DIR$/js/dz.xml" />
+        <option value="$PROJECT_DIR$/js/dz.js" />
       </list>
     </option>
   </component>
@@ -125,7 +187,39 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mtdz_new" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mtdz_new" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mtdz_new" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mtdz_new" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dz" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -154,7 +248,12 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/js" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/dz" />
     </key>
   </component>
   <component name="RunManager">
@@ -407,12 +506,12 @@
       <created>1427662901103</created>
       <option name="number" value="Default" />
       <updated>1427662901103</updated>
-      <workItem from="1427662902643" duration="414000" />
+      <workItem from="1427662902643" duration="2331000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="414000" />
+    <option name="totallyTimeSpent" value="2331000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1915" height="1006" extended-state="6" />
@@ -425,6 +524,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -433,14 +533,13 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959828" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -451,10 +550,54 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43132803">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/dz/backup0.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6905041">
-          <caret line="72" column="20" selection-start-line="72" selection-start-column="20" selection-end-line="72" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.35756156">
+          <caret line="84" column="9" selection-start-line="84" selection-start-column="9" selection-end-line="84" selection-end-column="9" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dz.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.678572">
+          <caret line="109" column="24" selection-start-line="109" selection-start-column="21" selection-end-line="109" selection-end-column="24" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/dz.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <folding>
+            <marker date="1427699034000" expanded="true" signature="2045:2064" placeholder="..." />
+            <marker date="1427699034000" expanded="true" signature="2376:2405" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/dz.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17253122">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
           <folding />
         </state>
       </provider>
