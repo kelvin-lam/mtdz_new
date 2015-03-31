@@ -18,7 +18,7 @@ $(document).ready(function() {
                     "   <div class='blog-meta'> " +
                     "       <div class='post-date'> " +
                     "           <div class='date-box'>" +
-                                    returnFloat(parseFloat(jQuery(this).find("reviews").find("point").html())*5.0/100.0) +
+                                    returnFloat(parseFloat(jQuery(this).find("reviews").find("point").text())*5.0/100.0) +
                     "               <br><span class='post-month'>评分</span> " +
                     "           </div> " +
                     "       </div> " +

@@ -8,9 +8,10 @@ $(document).ready(function() {
         },
         success:function(xml) {
             var route = jQuery(xml).find("route[id="+id+"]");
-            var name = jQuery(route).find("title").html();
+            var name = jQuery(route).find("title").text();
             window.document.title = name;
             jQuery(".route_name").html(name);
+            jQuery(".route_detail").html(html_decode(jQuery(route).find("description").text()));
 
             jQuery(".container figure.feature-image>img").attr("src",jQuery(route).find("profile").text());
 
