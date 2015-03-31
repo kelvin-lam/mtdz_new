@@ -1874,3 +1874,7 @@ blockquote {
 .blog-lists .thumbnail-hover {
 	background: rgba(54, 191, 196, 0.85) url(../images/lupe2.png) no-repeat center;
 }
+
+.review_time,.review_people,.review_point{
+	color: #909090;
+}
